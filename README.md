@@ -9,7 +9,7 @@ This repository contains PostgreSQL and Pandas solutions for [SQL 50 Study plan]
 | [Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)   | [SQL](https://github.com/pksX01/SQL-Pandas-50-Leetcode/blob/main/big_countries.sql), [Pandas](https://github.com/pksX01/SQL-Pandas-50-Leetcode/blob/main/big_countries.py) |
 | [Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50)|[SQL](https://github.com/pksX01/SQL-Pandas-50-Leetcode/blob/main/article_views_1.sql), [Pandas](https://github.com/pksX01/SQL-Pandas-50-Leetcode/blob/main/article_views_1.py)  |
 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50)   | [SQL](https://github.com/pksX01/SQL-Pandas-50-Leetcode/blob/main/invalid_tweets.sql), [Pandas](https://github.com/pksX01/SQL-Pandas-50-Leetcode/blob/main/invalid_tweets.py)|
-| []()| |
+| [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50)| [SQL](https://github.com/pksX01/SQL-Pandas-50-Leetcode/blob/main/replace_emp_id_with_unique_id.sql), [Pandas 1](https://github.com/pksX01/SQL-Pandas-50-Leetcode/blob/main/replace_emp_id_with_unique_id.py), [Pandas 2](https://github.com/pksX01/SQL-Pandas-50-Leetcode/blob/main/replace_emp_id_with_unique_id_v2.py)|
 | []()| |
 | []()| |
 | []()| |
