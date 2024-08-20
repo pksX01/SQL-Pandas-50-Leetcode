@@ -1,5 +1,5 @@
 # SQL-Pandas-50-Leetcode
-This repository contains PostgreSQL and Pandas solutions for [SQL 50 Study plan](https://leetcode.com/studyplan/top-sql-50/).
+This repository contains PostgreSQL/MySQL and Pandas solutions for [SQL 50 Study plan](https://leetcode.com/studyplan/top-sql-50/).
 
 
 | Problem | Solution|
